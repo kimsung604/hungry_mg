@@ -5,11 +5,12 @@ name = "pypi"
 
 [packages]
 flask = "*"
-python-dotenv = "*"
-redis = "*"
 flask-migrate = "*"
-pytest = "*"
 flask-script = "*"
+redis = "*"
+pymysql = "*"
+pytest = "*"
+python-dotenv = "*"
 
 [dev-packages]
 "flake8" = "*"
